@@ -1,0 +1,40 @@
+
+.table-wrapper {
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.table {
+
+  border-collapse: collapse;
+  border-radius: 1px;
+  border:0.5px solid;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.table thead {
+  background-color: #f8f9fa;
+}
+
+.table th{
+  padding: 0.3rem;
+  border:  1px solid rgba(224,224,224,1);
+  font-weight: 	Medium;
+  font-size:  0.875rem;
+}
+.table td {
+  padding: 0.2rem;
+  text-align: start;
+  border:  1px solid rgba(224,224,224,1);
+   font-weight: 400;
+   font-size:  0.900rem;
+}
+.edit-btn{
+  color: #0000ff;
+ 
+}
+.radiobtn{
+ margin-top: 5px
+}
